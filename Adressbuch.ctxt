@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Adressbuch
+comment1.params=
+comment1.target=Adressbuch()
+comment10.params=
+comment10.target=List\ getGruppen()
+comment2.params=pName
+comment2.target=boolean\ erstelleGruppe(java.lang.String)
+comment3.params=pName
+comment3.target=Gruppe\ getGruppe(java.lang.String)
+comment4.params=pName
+comment4.target=void\ removeGruppe(java.lang.String)
+comment5.params=pKontakt
+comment5.target=void\ addKontakt(Kontakt)
+comment6.params=pKontakt
+comment6.target=void\ removeKontakt(Kontakt)
+comment7.params=pName
+comment7.target=Kontakt\ getKontaktName(java.lang.String)
+comment8.params=pName
+comment8.target=Kontakt\ getKontaktVorname(java.lang.String)
+comment9.params=
+comment9.target=List\ getKontakte()
+numComments=11
